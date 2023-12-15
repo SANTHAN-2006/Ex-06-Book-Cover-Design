@@ -143,3 +143,5 @@ Run the html and css code in any code editor.
 ![image](https://github.com/SANTHAN-2006/Ex-06-Book-Cover-Design/assets/80164014/f99664fb-ab38-4e58-be5a-d2f880304473)
 # Result :
 Therefore, successfully created a Book Cover Page Design using HTML and CSS.
+## Developed By : K. Santhan Kumar
+## Register Number : 212223240065
